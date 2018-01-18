@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jan2018DemoWebsite", "Jan20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinookSystem", "ChinookSystem\ChinookSystem.csproj", "{4B33F637-311D-4C88-A23B-2B028BE0F01D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinookData", "ChinookData\ChinookData.csproj", "{73D84FE2-3248-40AB-A17D-CCA553A1D83A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.Data", "ChinookData\Chinook.Data.csproj", "{73D84FE2-3248-40AB-A17D-CCA553A1D83A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
